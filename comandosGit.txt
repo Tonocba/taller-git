@@ -1,0 +1,13 @@
+git log
+git status
+git checkout (-b crea una nueva rama)
+git reset --hard
+git add
+git commit -m ""
+git merge
+git config user.name
+git config user.email
+
+//Otros//
+touch 
+code
