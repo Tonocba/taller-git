@@ -7,6 +7,8 @@ git commit -m ""
 git merge
 git config user.name
 git config user.email
+git reset --hard HEAD
+git reset miArchivo.txt
 
 //Otros//
 touch 
